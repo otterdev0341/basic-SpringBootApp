@@ -19,6 +19,8 @@ public class BookController {
 
         model.addAttribute("books",bookRepository.findAll());
 
+        // return will look at resources/templates/[A]/[B]
+        // A = directory inside template , B = html file that want to render
         return "books/list";
     }
 }
