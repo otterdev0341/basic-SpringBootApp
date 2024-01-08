@@ -1,1 +1,9 @@
+dev/java/springboot/spring5webApp/domain/Book.class
+dev/java/springboot/spring5webApp/domain/Author.class
 dev/java/springboot/spring5webApp/Spring5webAppApplication.class
+dev/java/springboot/spring5webApp/domain/Publisher.class
+dev/java/springboot/spring5webApp/respositories/AuthorRepository.class
+dev/java/springboot/spring5webApp/bootstrap/BootStrapData.class
+dev/java/springboot/spring5webApp/respositories/PublisherRepository.class
+dev/java/springboot/spring5webApp/respositories/BookRepository.class
+dev/java/springboot/spring5webApp/controllers/BookController.class

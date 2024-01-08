@@ -1,1 +1,9 @@
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/respositories/AuthorRepository.java
 /home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/Spring5webAppApplication.java
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/domain/Author.java
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/controllers/BookController.java
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/domain/Publisher.java
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/domain/Book.java
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/respositories/BookRepository.java
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/bootstrap/BootStrapData.java
+/home/otterdev/STS-PROJECT/spring5webApp/basic-SpringBootApp/src/main/java/dev/java/springboot/spring5webApp/respositories/PublisherRepository.java
